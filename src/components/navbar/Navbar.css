@@ -31,7 +31,6 @@
 .gpt3__navbar-sign p,
 .gpt3__navbar-menu__container p {
     color: #fff;
-    font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
     line-height: 25px;
@@ -53,7 +52,6 @@
     background: #FF4820;
     border: none;
     border-radius: 5px;
-    font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
     line-height: 25px;

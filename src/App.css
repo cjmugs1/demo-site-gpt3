@@ -6,7 +6,8 @@
 }
 
 .App {
-  /* text-align: center; */
+  font-family: var(--font-family);
+  user-select: none;
 }
 
 body {
